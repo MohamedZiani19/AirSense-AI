@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/pipeline.png" alt="AirSense AI pipeline architecture" width="750">
+  <img src="assets/logo.png" alt="AirSense AI pipeline architecture" width="750">
 </p>
 
 <h1 align="center">🌫️ AirSense AI</h1>
