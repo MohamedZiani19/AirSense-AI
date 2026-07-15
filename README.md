@@ -190,7 +190,7 @@ python run_with_ngrok.py
 
 ## Author
 
-**Akira** — Building AirSense AI as an end-to-end applied ML/data science project.
+**Mohamed Ziani** — Building AirSense AI as an end-to-end applied ML/data science project.
 
 Contributions, issues, and suggestions are welcome — feel free to open an Issue or a Pull Request.
 
